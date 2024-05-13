@@ -30,21 +30,7 @@ rl.question("What's your name? Nicknames are also acceptable :) ", (answer) => {
   });
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// SOLUTION FOUND IN WEB //
 // const name = "What's your name? Nicknames are also acceptable :) ";
 // const activity = "What's an activity you like doing? ";
 // const music = "What do you listen to while doing that? ";
